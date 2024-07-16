@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ff0xxx&label=Profile%20views&color=0e75b6&style=flat" alt="ff0xxx" /> </p>
 
-- 🔭 I’m currently working on **Telegram Bot** using **parsers**
+- 🔭 I’m currently working on **Telegram Bot** and **website in Django**
 
 - 🌱 I’m currently learning **Django, some Python libraries**
 
