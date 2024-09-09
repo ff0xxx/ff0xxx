@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ff0xxx&label=Profile%20views&color=0e75b6&style=flat" alt="ff0xxx" /> </p>
 
-- 🔭 I’m currently working on **Telegram Bot** and **website in Django**
+- 🔭 I’m currently working on **website in Django**
 
-- 🌱 I’m currently learning **Django, some Python libraries**
-
-- ⚡ Fun fact **Want to find a job bef0re the 4nd of summer24**
+- ⚡ Fun fact **Want to find a job bef0re the 4nd of November24**
 
 
 <h3 align="left">Languages and Tools:</h3>
