@@ -14,6 +14,8 @@
 
 <h2>🧠 My Statistics</h2>
 <img align="left" src="https://komarev.com/ghpvc/?username=ff0xxx&label=Profile%20views&color=0e75b6&style=flat" alt="ff0xxx" title="That's a lot of views!"/> <a href="#" title="I love and welcome contributions!"></a>
+
+[![wakatime](https://wakatime.com/badge/user/9b0cbea0-62e2-4ec0-97bb-456cd1c47a1e.svg)](https://wakatime.com/@9b0cbea0-62e2-4ec0-97bb-456cd1c47a1e)
 <br>
 
 <img align="right" width="310" src="https://64.media.tumblr.com/96fc255d28e1f200168b601a49471741/4dd6d2fbdf437282-31/s500x750/965b5ab7e11ab2534005e219a2160eed82065722.gif"/>
