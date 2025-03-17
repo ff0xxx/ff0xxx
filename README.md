@@ -1,14 +1,16 @@
 <h1 align="center" style="text-decoration: none">👨🏻‍💻 My tech stack:</h1>
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" alt="postman" width="40" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" alt="docker" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Redis-Dark.svg" alt="redis" width="40"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Django.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Django-REST.png" alt="DRF" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/>
-  <img src="https://w7.pngwing.com/pngs/954/687/png-transparent-telegram-bot-api-chatbot-security-token-internet-bot-telgram-miscellaneous-sticker-fictional-character-thumbnail.png" alt="tg-bot" width="40" height="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg" alt="vuejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </div>
 <br>
 
